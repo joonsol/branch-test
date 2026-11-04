@@ -1,9 +1,10 @@
 h1{
     color:saddlebrown
 }
+h2{
+    background-color: rgb(205, 231, 255);
+}
 form {
     border: 2px solid darkblue;
-
-
     padding: 10px;
 }
